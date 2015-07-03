@@ -1,0 +1,2 @@
+# recyclerViewStudy
+recyclerView的简单学习，包括动画，分割瞎线点击事件，适配器。形式listview和横竖的gridviewe和瀑布流
